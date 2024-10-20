@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Password</title>
+<style>
+  body {
+    background-color:SeaShell
+    padding: 30px;
+  }
+</style>
+<script>
+  function checkPassword() {
+    var password = document.getElementById("passwordBox");
+    var passwordText = password.value;
+    if(passwordText == "CoolDoggy989") {
+      return true;
+  }
+  alert("Sorry...You have incorrect passoword , please try again");
+  return false;
+  }
+</head>
+<body>
+  <p style="font-size: 30pt;">Join our new website, please!</p>
+  <p>If you want to entrance enter this website,please,password.</p>
+  <p>Password:<input id="passwordBox" type="password"/></p>
+  <a href="finalywefondpassword.html">
+    Click here,to send password and see website
+  </a>
+</body>
+</html>
+<html>
+<head>
+  <title>Password</title>
+<style>
+  body {
+    background-color:SeaShell
+    padding: 30px;
+  <title>Arisha sonikstudios and her website</title>
+<style>
+  body  {
+    margin: 0px;
+  }
+  .pad {
+    padding: 25px;
+  }
+  .header {
+    background-color: MintCream;
+    color: MediumBlue;
+    height: 100px;
+    font-size: 36px;
+    text-align: center;
+  }
+  .welcome {
+    background-color: PapayaWhip;
+    color: RoyalBlue;
+    font-size: 16pt;
+    text-align: center;
+    height: 40px;
+    margin: 0px;
+  }
+  .main-text {
+   width: 60%
+   float: left;
+   background-color: Snow;
+  }
+  .divs {
+   margin: 5px;
+   width: 25%;
+   float: left;
+   border: 4px solid lightblue;
+  }
+</style>
+</head>
+ <body>
+   <div class="header pad">
+     Welcome to "Arisha sonikstudios and her website"!
+</div>
+<div>
+  <p class="welcome">
+    This website made by Arisha sonikstudios
+  </p>
+</div>
+<div class="main-text pad">
+  <p>
+    This website about:<br/>
+    1.History of Arisha sonikstudios<br/>
+    2.Her musics does she made<br/>
+    3.Her videogames does she made<br/>
+    4.History of her art evolution<br/>
+    5.Her social-websites<br/>
+    6.Her characters<br/>
+  </p>
+  <p> 
+    Check this website , share it and have fun!<br/>
+  </p>
+  <img src="My oc.jpg" alt="My oc" style="height: 150px;"/>
+</div>
+ 
+    
+    
